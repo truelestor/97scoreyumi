@@ -1,0 +1,18 @@
+{
+  "name": "97scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "average credit score ◄ Get Your FREE Credit Score average credit score, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "average credit score",
+    "mortgage lenders low credit score",
+    "best site credit score",
+    "credit score 460",
+    "can credit score go back up"
+  ],
+  "repository": "https://github.com/truelestor/97scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
